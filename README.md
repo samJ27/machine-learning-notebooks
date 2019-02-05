@@ -1,2 +1,2 @@
 # machine-learning-notebooks
-Various notebooks implementing various ML/DL concepts
+Various notebooks implementing ML/DL concepts
